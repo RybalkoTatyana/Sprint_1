@@ -1,2 +1,2 @@
 # Sprint_1
-Precticum_1
+Practice_1
